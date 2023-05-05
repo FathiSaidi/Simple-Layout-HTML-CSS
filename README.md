@@ -2,6 +2,8 @@
 
 Simple Website Layout Using HTML + CSS
 
+Flexbox Example
+
 ## Preview
 
 ![](preview.png)
